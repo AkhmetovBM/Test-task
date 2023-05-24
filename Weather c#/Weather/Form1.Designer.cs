@@ -40,7 +40,6 @@
             this.WeatherDisplay.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.WeatherDisplay.Size = new System.Drawing.Size(288, 128);
             this.WeatherDisplay.TabIndex = 0;
-            this.WeatherDisplay.Text = "label1";
             // 
             // textBox1
             // 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bulat\\Desktop\\Weather\\Weather\\Weather.csproj",
+      "projectUniqueName": "C:\\Users\\Bulat\\Documents\\GitHub\\Test-task\\Weather c#\\Weather\\Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "C:\\Users\\Bulat\\Desktop\\Weather\\Weather\\Weather.csproj",
+      "projectPath": "C:\\Users\\Bulat\\Documents\\GitHub\\Test-task\\Weather c#\\Weather\\Weather.csproj",
       "packagesPath": "C:\\Users\\Bulat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bulat\\Desktop\\Weather\\Weather\\obj\\",
+      "outputPath": "C:\\Users\\Bulat\\Documents\\GitHub\\Test-task\\Weather c#\\Weather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
